@@ -54,9 +54,8 @@ Contains animal attributes:
 - Animal ID  
 - Species  
 - Age  
-- Sex  
 - Region  
-- Tracking Details  
+
 
 ### **2. animal_movements.csv**
 Contains GPS tracking points:
